@@ -3,7 +3,7 @@ on:
   push:
     branches: [main]
     paths:
-      - '.github/workflows/refresh.yml'
+      - '.github/workflows/refresh.yml' # Trigger deploy after dashboard/source corrections
       - 'build_dashboard.py'
   workflow_dispatch:
   schedule:
