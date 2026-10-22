@@ -1,5 +1,9 @@
 name: Refresh Liga Portugal Betclic 2026-27
 on:
+  push:
+    branches: [main]
+    paths:
+      - '.github/workflows/refresh.yml'
   workflow_dispatch:
   schedule:
     - cron: '10 9 * * *' # 06:10 America/Sao_Paulo (UTC-3)
