@@ -1,0 +1,27 @@
+{
+  "cutoff_utc": "2026-10-20T21:50:03.690386+00:00",
+  "cutoff_local": "2026-10-20T18:50:03.690386-03:00",
+  "league": "Liga Portugal Betclic",
+  "season_code": "20262027",
+  "competition_external_id": "ligaportugalbetclic",
+  "official_rounds_url": "https://www.ligaportugal.pt/api/v1/competition/season/rounds?competition=ligaportugalbetclic&season=20262027",
+  "official_fixtures_url_template": "https://www.ligaportugal.pt/api/v1/competition/matches?competition=ligaportugalbetclic&season=20262027&round={round}",
+  "official_standings_url": "https://www.ligaportugal.pt/api/v2/competition/standings?competition=ligaportugalbetclic&season=20262027",
+  "espn_url_template": "https://site.api.espn.com/apis/site/v2/sports/soccer/por.1/scoreboard?dates={date}",
+  "rounds": 34,
+  "fixtures": 306,
+  "fixtures_per_round": 9,
+  "teams": 18,
+  "team_appearances": 34,
+  "official_finals": 72,
+  "unstarted_or_nonfinal": 234,
+  "espn_events_checked": 72,
+  "espn_score_matches": 72,
+  "official_table_teams_reconciled": 18,
+  "espn_table_teams_reconciled": 18,
+  "fixture_status_counts": {
+    "5": 72,
+    "0": 234
+  },
+  "validation": "PASS"
+}

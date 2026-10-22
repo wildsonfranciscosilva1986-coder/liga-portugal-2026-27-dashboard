@@ -1,0 +1,722 @@
+[
+  {
+    "event_id": "401885491",
+    "date": "2026-08-07T19:15Z",
+    "name": "FC Famalicao at Estoril",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estoril",
+    "home_goals": "1",
+    "away": "FC Famalicao",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885489",
+    "date": "2026-08-08T14:30Z",
+    "name": "Casa Pia at Maritimo",
+    "status": "STATUS_FULL_TIME",
+    "home": "Maritimo",
+    "home_goals": "1",
+    "away": "Casa Pia",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885484",
+    "date": "2026-08-08T17:00Z",
+    "name": "Arouca at Vitória de Guimaraes",
+    "status": "STATUS_FULL_TIME",
+    "home": "Vitória de Guimaraes",
+    "home_goals": "0",
+    "away": "Arouca",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885492",
+    "date": "2026-08-08T19:30Z",
+    "name": "Sporting CP at Estrela",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estrela",
+    "home_goals": "2",
+    "away": "Sporting CP",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885487",
+    "date": "2026-08-09T17:00Z",
+    "name": "Alverca at FC Porto",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Porto",
+    "home_goals": "2",
+    "away": "Alverca",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885485",
+    "date": "2026-08-09T19:30Z",
+    "name": "Académico de Viseu at Benfica",
+    "status": "STATUS_FULL_TIME",
+    "home": "Benfica",
+    "home_goals": "2",
+    "away": "Académico de Viseu",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885490",
+    "date": "2026-08-09T19:30Z",
+    "name": "Rio Ave at Gil Vicente",
+    "status": "STATUS_FULL_TIME",
+    "home": "Gil Vicente",
+    "home_goals": "1",
+    "away": "Rio Ave",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885488",
+    "date": "2026-08-09T19:30Z",
+    "name": "Braga at Moreirense",
+    "status": "STATUS_FULL_TIME",
+    "home": "Moreirense",
+    "home_goals": "2",
+    "away": "Braga",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885486",
+    "date": "2026-08-10T19:15Z",
+    "name": "C.D. Nacional at Santa Clara",
+    "status": "STATUS_FULL_TIME",
+    "home": "Santa Clara",
+    "home_goals": "2",
+    "away": "C.D. Nacional",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885475",
+    "date": "2026-08-14T19:15Z",
+    "name": "Vitória de Guimaraes at Sporting CP",
+    "status": "STATUS_FULL_TIME",
+    "home": "Sporting CP",
+    "home_goals": "3",
+    "away": "Vitória de Guimaraes",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885482",
+    "date": "2026-08-15T14:30Z",
+    "name": "Estrela at Alverca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Alverca",
+    "home_goals": "2",
+    "away": "Estrela",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885483",
+    "date": "2026-08-15T17:00Z",
+    "name": "Santa Clara at Académico de Viseu",
+    "status": "STATUS_FULL_TIME",
+    "home": "Académico de Viseu",
+    "home_goals": "0",
+    "away": "Santa Clara",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885476",
+    "date": "2026-08-15T19:30Z",
+    "name": "FC Porto at Rio Ave",
+    "status": "STATUS_FULL_TIME",
+    "home": "Rio Ave",
+    "home_goals": "0",
+    "away": "FC Porto",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885477",
+    "date": "2026-08-16T14:30Z",
+    "name": "Estoril at C.D. Nacional",
+    "status": "STATUS_FULL_TIME",
+    "home": "C.D. Nacional",
+    "home_goals": "2",
+    "away": "Estoril",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885481",
+    "date": "2026-08-16T17:00Z",
+    "name": "Moreirense at Arouca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Arouca",
+    "home_goals": "4",
+    "away": "Moreirense",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885478",
+    "date": "2026-08-16T19:30Z",
+    "name": "Maritimo at FC Famalicao",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Famalicao",
+    "home_goals": "1",
+    "away": "Maritimo",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885479",
+    "date": "2026-08-17T19:15Z",
+    "name": "Benfica at Casa Pia",
+    "status": "STATUS_FULL_TIME",
+    "home": "Casa Pia",
+    "home_goals": "0",
+    "away": "Benfica",
+    "away_goals": "7"
+  },
+  {
+    "event_id": "401885471",
+    "date": "2026-08-22T14:30Z",
+    "name": "Académico de Viseu at Maritimo",
+    "status": "STATUS_FULL_TIME",
+    "home": "Maritimo",
+    "home_goals": "2",
+    "away": "Académico de Viseu",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885473",
+    "date": "2026-08-22T17:00Z",
+    "name": "Rio Ave at Estoril",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estoril",
+    "home_goals": "0",
+    "away": "Rio Ave",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885467",
+    "date": "2026-08-22T19:30Z",
+    "name": "Alverca at Sporting CP",
+    "status": "STATUS_FULL_TIME",
+    "home": "Sporting CP",
+    "home_goals": "3",
+    "away": "Alverca",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885466",
+    "date": "2026-08-23T14:30Z",
+    "name": "C.D. Nacional at Vitória de Guimaraes",
+    "status": "STATUS_FULL_TIME",
+    "home": "Vitória de Guimaraes",
+    "home_goals": "1",
+    "away": "C.D. Nacional",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885468",
+    "date": "2026-08-23T17:00Z",
+    "name": "FC Famalicao at Santa Clara",
+    "status": "STATUS_FULL_TIME",
+    "home": "Santa Clara",
+    "home_goals": "1",
+    "away": "FC Famalicao",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885469",
+    "date": "2026-08-23T19:30Z",
+    "name": "Arouca at FC Porto",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Porto",
+    "home_goals": "2",
+    "away": "Arouca",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885472",
+    "date": "2026-08-24T19:15Z",
+    "name": "Casa Pia at Gil Vicente",
+    "status": "STATUS_FULL_TIME",
+    "home": "Gil Vicente",
+    "home_goals": "2",
+    "away": "Casa Pia",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885458",
+    "date": "2026-08-28T19:15Z",
+    "name": "Sporting CP at Rio Ave",
+    "status": "STATUS_FULL_TIME",
+    "home": "Rio Ave",
+    "home_goals": "0",
+    "away": "Sporting CP",
+    "away_goals": "4"
+  },
+  {
+    "event_id": "401885464",
+    "date": "2026-08-29T14:30Z",
+    "name": "Santa Clara at Alverca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Alverca",
+    "home_goals": "1",
+    "away": "Santa Clara",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885463",
+    "date": "2026-08-29T14:30Z",
+    "name": "Maritimo at Arouca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Arouca",
+    "home_goals": "2",
+    "away": "Maritimo",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885465",
+    "date": "2026-08-29T17:00Z",
+    "name": "FC Porto at Académico de Viseu",
+    "status": "STATUS_FULL_TIME",
+    "home": "Académico de Viseu",
+    "home_goals": "0",
+    "away": "FC Porto",
+    "away_goals": "3"
+  },
+  {
+    "event_id": "401885459",
+    "date": "2026-08-30T14:30Z",
+    "name": "Estrela at C.D. Nacional",
+    "status": "STATUS_FULL_TIME",
+    "home": "C.D. Nacional",
+    "home_goals": "2",
+    "away": "Estrela",
+    "away_goals": "3"
+  },
+  {
+    "event_id": "401885461",
+    "date": "2026-08-30T17:00Z",
+    "name": "Moreirense at Casa Pia",
+    "status": "STATUS_FULL_TIME",
+    "home": "Casa Pia",
+    "home_goals": "0",
+    "away": "Moreirense",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885460",
+    "date": "2026-08-30T19:30Z",
+    "name": "Gil Vicente at FC Famalicao",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Famalicao",
+    "home_goals": "0",
+    "away": "Gil Vicente",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885457",
+    "date": "2026-08-31T19:15Z",
+    "name": "Estoril at Benfica",
+    "status": "STATUS_FULL_TIME",
+    "home": "Benfica",
+    "home_goals": "2",
+    "away": "Estoril",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885462",
+    "date": "2026-08-31T19:15Z",
+    "name": "Vitória de Guimaraes at Braga",
+    "status": "STATUS_FULL_TIME",
+    "home": "Braga",
+    "home_goals": "1",
+    "away": "Vitória de Guimaraes",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885451",
+    "date": "2026-09-04T19:15Z",
+    "name": "Moreirense at FC Porto",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Porto",
+    "home_goals": "2",
+    "away": "Moreirense",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885455",
+    "date": "2026-09-05T14:30Z",
+    "name": "FC Famalicao at Estrela",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estrela",
+    "home_goals": "2",
+    "away": "FC Famalicao",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885456",
+    "date": "2026-09-05T17:00Z",
+    "name": "Braga at Alverca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Alverca",
+    "home_goals": "1",
+    "away": "Braga",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885452",
+    "date": "2026-09-05T17:00Z",
+    "name": "Benfica at Maritimo",
+    "status": "STATUS_FULL_TIME",
+    "home": "Maritimo",
+    "home_goals": "0",
+    "away": "Benfica",
+    "away_goals": "3"
+  },
+  {
+    "event_id": "401885449",
+    "date": "2026-09-05T19:30Z",
+    "name": "C.D. Nacional at Sporting CP",
+    "status": "STATUS_FULL_TIME",
+    "home": "Sporting CP",
+    "home_goals": "2",
+    "away": "C.D. Nacional",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885450",
+    "date": "2026-09-06T14:30Z",
+    "name": "Rio Ave at Santa Clara",
+    "status": "STATUS_FULL_TIME",
+    "home": "Santa Clara",
+    "home_goals": "4",
+    "away": "Rio Ave",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885448",
+    "date": "2026-09-06T17:00Z",
+    "name": "Casa Pia at Vitória de Guimaraes",
+    "status": "STATUS_FULL_TIME",
+    "home": "Vitória de Guimaraes",
+    "home_goals": "0",
+    "away": "Casa Pia",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885453",
+    "date": "2026-09-06T19:30Z",
+    "name": "Académico de Viseu at Gil Vicente",
+    "status": "STATUS_FULL_TIME",
+    "home": "Gil Vicente",
+    "home_goals": "0",
+    "away": "Académico de Viseu",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885454",
+    "date": "2026-09-07T19:15Z",
+    "name": "Arouca at Estoril",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estoril",
+    "home_goals": "0",
+    "away": "Arouca",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885470",
+    "date": "2026-09-09T19:45Z",
+    "name": "Benfica at Moreirense",
+    "status": "STATUS_FULL_TIME",
+    "home": "Moreirense",
+    "home_goals": "0",
+    "away": "Benfica",
+    "away_goals": "4"
+  },
+  {
+    "event_id": "401885474",
+    "date": "2026-09-10T19:15Z",
+    "name": "Braga at Estrela",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estrela",
+    "home_goals": "2",
+    "away": "Braga",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885441",
+    "date": "2026-09-12T14:30Z",
+    "name": "Alverca at C.D. Nacional",
+    "status": "STATUS_FULL_TIME",
+    "home": "C.D. Nacional",
+    "home_goals": "1",
+    "away": "Alverca",
+    "away_goals": "3"
+  },
+  {
+    "event_id": "401885444",
+    "date": "2026-09-12T17:00Z",
+    "name": "FC Porto at Casa Pia",
+    "status": "STATUS_FULL_TIME",
+    "home": "Casa Pia",
+    "home_goals": "1",
+    "away": "FC Porto",
+    "away_goals": "4"
+  },
+  {
+    "event_id": "401885447",
+    "date": "2026-09-12T19:30Z",
+    "name": "Vitória de Guimaraes at Académico de Viseu",
+    "status": "STATUS_FULL_TIME",
+    "home": "Académico de Viseu",
+    "home_goals": "2",
+    "away": "Vitória de Guimaraes",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885446",
+    "date": "2026-09-13T17:00Z",
+    "name": "Santa Clara at Arouca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Arouca",
+    "home_goals": "1",
+    "away": "Santa Clara",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885439",
+    "date": "2026-09-13T17:00Z",
+    "name": "Gil Vicente at Benfica",
+    "status": "STATUS_FULL_TIME",
+    "home": "Benfica",
+    "home_goals": "3",
+    "away": "Gil Vicente",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885443",
+    "date": "2026-09-13T19:30Z",
+    "name": "Sporting CP at FC Famalicao",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Famalicao",
+    "home_goals": "1",
+    "away": "Sporting CP",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885440",
+    "date": "2026-09-14T17:45Z",
+    "name": "Estrela at Rio Ave",
+    "status": "STATUS_FULL_TIME",
+    "home": "Rio Ave",
+    "home_goals": "3",
+    "away": "Estrela",
+    "away_goals": "3"
+  },
+  {
+    "event_id": "401885442",
+    "date": "2026-09-14T19:15Z",
+    "name": "Maritimo at Moreirense",
+    "status": "STATUS_FULL_TIME",
+    "home": "Moreirense",
+    "home_goals": "3",
+    "away": "Maritimo",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885445",
+    "date": "2026-09-14T19:45Z",
+    "name": "Estoril at Braga",
+    "status": "STATUS_FULL_TIME",
+    "home": "Braga",
+    "home_goals": "1",
+    "away": "Estoril",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885434",
+    "date": "2026-09-19T14:30Z",
+    "name": "FC Famalicao at C.D. Nacional",
+    "status": "STATUS_FULL_TIME",
+    "home": "C.D. Nacional",
+    "home_goals": "0",
+    "away": "FC Famalicao",
+    "away_goals": "4"
+  },
+  {
+    "event_id": "401885435",
+    "date": "2026-09-19T14:30Z",
+    "name": "Maritimo at Gil Vicente",
+    "status": "STATUS_FULL_TIME",
+    "home": "Gil Vicente",
+    "home_goals": "1",
+    "away": "Maritimo",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885438",
+    "date": "2026-09-19T17:00Z",
+    "name": "Rio Ave at Alverca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Alverca",
+    "home_goals": "1",
+    "away": "Rio Ave",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885431",
+    "date": "2026-09-19T19:30Z",
+    "name": "Arouca at Sporting CP",
+    "status": "STATUS_FULL_TIME",
+    "home": "Sporting CP",
+    "home_goals": "2",
+    "away": "Arouca",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885437",
+    "date": "2026-09-20T14:30Z",
+    "name": "Académico de Viseu at Estrela",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estrela",
+    "home_goals": "0",
+    "away": "Académico de Viseu",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885430",
+    "date": "2026-09-20T14:30Z",
+    "name": "Moreirense at Vitória de Guimaraes",
+    "status": "STATUS_FULL_TIME",
+    "home": "Vitória de Guimaraes",
+    "home_goals": "1",
+    "away": "Moreirense",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885436",
+    "date": "2026-09-20T17:00Z",
+    "name": "Casa Pia at Estoril",
+    "status": "STATUS_FULL_TIME",
+    "home": "Estoril",
+    "home_goals": "1",
+    "away": "Casa Pia",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885432",
+    "date": "2026-09-20T17:00Z",
+    "name": "Braga at Santa Clara",
+    "status": "STATUS_FULL_TIME",
+    "home": "Santa Clara",
+    "home_goals": "0",
+    "away": "Braga",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885433",
+    "date": "2026-09-20T19:30Z",
+    "name": "Benfica at FC Porto",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Porto",
+    "home_goals": "3",
+    "away": "Benfica",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885423",
+    "date": "2026-10-09T17:45Z",
+    "name": "Gil Vicente at Moreirense",
+    "status": "STATUS_FULL_TIME",
+    "home": "Moreirense",
+    "home_goals": "0",
+    "away": "Gil Vicente",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885427",
+    "date": "2026-10-09T19:15Z",
+    "name": "Sporting CP at Braga",
+    "status": "STATUS_FULL_TIME",
+    "home": "Braga",
+    "home_goals": "1",
+    "away": "Sporting CP",
+    "away_goals": "3"
+  },
+  {
+    "event_id": "401885424",
+    "date": "2026-10-10T17:00Z",
+    "name": "FC Porto at Maritimo",
+    "status": "STATUS_FULL_TIME",
+    "home": "Maritimo",
+    "home_goals": "1",
+    "away": "FC Porto",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885429",
+    "date": "2026-10-10T19:30Z",
+    "name": "Estoril at Académico de Viseu",
+    "status": "STATUS_FULL_TIME",
+    "home": "Académico de Viseu",
+    "home_goals": "2",
+    "away": "Estoril",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885426",
+    "date": "2026-10-10T19:30Z",
+    "name": "Santa Clara at Casa Pia",
+    "status": "STATUS_FULL_TIME",
+    "home": "Casa Pia",
+    "home_goals": "0",
+    "away": "Santa Clara",
+    "away_goals": "1"
+  },
+  {
+    "event_id": "401885422",
+    "date": "2026-10-11T14:30Z",
+    "name": "C.D. Nacional at Rio Ave",
+    "status": "STATUS_FULL_TIME",
+    "home": "Rio Ave",
+    "home_goals": "3",
+    "away": "C.D. Nacional",
+    "away_goals": "2"
+  },
+  {
+    "event_id": "401885421",
+    "date": "2026-10-11T17:00Z",
+    "name": "Vitória de Guimaraes at Benfica",
+    "status": "STATUS_FULL_TIME",
+    "home": "Benfica",
+    "home_goals": "2",
+    "away": "Vitória de Guimaraes",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885428",
+    "date": "2026-10-11T19:30Z",
+    "name": "Estrela at Arouca",
+    "status": "STATUS_FULL_TIME",
+    "home": "Arouca",
+    "home_goals": "1",
+    "away": "Estrela",
+    "away_goals": "0"
+  },
+  {
+    "event_id": "401885425",
+    "date": "2026-10-12T19:15Z",
+    "name": "Alverca at FC Famalicao",
+    "status": "STATUS_FULL_TIME",
+    "home": "FC Famalicao",
+    "home_goals": "1",
+    "away": "Alverca",
+    "away_goals": "4"
+  },
+  {
+    "event_id": "401885480",
+    "date": "2026-10-19T19:15Z",
+    "name": "Gil Vicente at Braga",
+    "status": "STATUS_FULL_TIME",
+    "home": "Braga",
+    "home_goals": "1",
+    "away": "Gil Vicente",
+    "away_goals": "2"
+  }
+]
