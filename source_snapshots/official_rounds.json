@@ -19,12 +19,11 @@
     "competition_name": "Liga Portugal Betclic",
     "initial_date": "2026-08-14T19:15:00Z",
     "final_date": "2026-10-19T19:15:00Z",
-    "is_current_round": true,
+    "is_current_round": false,
     "total_spectators": 86030,
     "matcheweekTypeId": 1,
     "has_been_played": true,
-    "has_started": true,
-    "predictor_current_round": true
+    "has_started": true
   },
   {
     "round_number": 3,
@@ -111,10 +110,11 @@
     "competition_name": "Liga Portugal Betclic",
     "initial_date": "2026-10-23T19:45:00Z",
     "final_date": "2026-10-26T18:45:00Z",
-    "is_current_round": false,
+    "is_current_round": true,
     "matcheweekTypeId": 1,
     "has_been_played": false,
-    "has_started": false
+    "has_started": true,
+    "predictor_current_round": true
   },
   {
     "round_number": 10,
